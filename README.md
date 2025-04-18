@@ -1,26 +1,8 @@
-Sure! Here's a polished **README description** for your **To-Do List App** built with **React**, **Tailwind CSS**, and **React Icons**, ready to include in your GitHub project:
+# React + Vite
 
----
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-# ✅ To-Do List App
+Currently, two official plugins are available:
 
-This is a **simple and responsive To-Do List application** built using **React**, styled with **Tailwind CSS**, and enhanced with **React Icons** for a clean and modern user interface. The app allows users to add, delete, and manage tasks efficiently, making it a perfect project to practice and demonstrate front-end development skills.
-
-## 🛠️ Technologies Used
-- **React** – For building a dynamic and responsive user interface  
-- **Tailwind CSS** – For utility-first and customizable styling  
-- **React Icons** – For adding intuitive and visually appealing icons  
-
-## ✨ Features
-- Add new tasks  
-- Delete individual tasks  
-- Mark tasks as complete (if implemented)  
-- Clean and minimal UI  
-- Responsive design for all screen sizes  
-
-## 🎯 Purpose
-This project was developed to practice modern front-end development using React and Tailwind CSS. It demonstrates component-based architecture, state management, and responsive design.
-
----
-
-Let me know if you'd like a **Live Demo** link, **screenshot section**, or **installation instructions** added as well!
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
